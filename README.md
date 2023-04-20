@@ -20,3 +20,6 @@ When deploying an application Kinsta will automatically create a processes based
 ```
 web: python server.py
 ```
+
+## Watch how to set Up a Python Application on Kinsta
+[![Watch the video](https://img.youtube.com/vi/2TzIKbeL_d8/maxresdefault.jpg)](https://www.youtube.com/watch?v=2TzIKbeL_d8)
