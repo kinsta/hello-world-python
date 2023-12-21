@@ -1,5 +1,3 @@
-![Photo by Dimitri Iakymuk on Unsplash](https://user-images.githubusercontent.com/2342458/214546464-033f2a3d-189f-42a3-ad30-11d80358f6c1.png)
-
 # Kinsta - Python Starter
 
 An example of how to set **Python** up to enable deployment on Kinsta App Hosting services.
